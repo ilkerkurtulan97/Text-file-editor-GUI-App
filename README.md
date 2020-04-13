@@ -1,3 +1,3 @@
 # Text-file-editor-GUI-App
 
-!(app1.jpg)
+![Screenshot](app1.jpg)
