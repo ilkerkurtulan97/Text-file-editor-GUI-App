@@ -9,6 +9,10 @@ Full functionality python gui text editor
 
 ![Screenshot](app2.jpg)
 
+It even allows to inspect the written files
+
+![Screenshot](app3.jpg)
+
 
 
 
